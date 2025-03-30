@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361192552195",
+    "project_id": "care2wheeler-4e96e",
+    "storage_bucket": "care2wheeler-4e96e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361192552195:android:4c70e3efe7d84367b45b36",
+        "android_client_info": {
+          "package_name": "com.example.garage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrVZ_LG0KY633cy0xpCKZke7Vy3QyWFS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,4 @@
 {
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cmake.sourceDirectory": "C:/Users/manis/Desktop/AndroidStudioProjects/GarageSide-Clients/garage_side/garage/windows/flutter"
 }

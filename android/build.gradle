@@ -1,3 +1,14 @@
+buildscript {
+    // exe.versions.kotlin = '2.1.10'
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.google.gms:google-services:4.4.2' // Correct location for classpath
+    }
+}
+
 allprojects {
     repositories {
         google()
